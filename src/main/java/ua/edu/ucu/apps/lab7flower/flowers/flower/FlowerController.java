@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab7flower.flowers;
+package ua.edu.ucu.apps.lab7flower.flowers.flower;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
